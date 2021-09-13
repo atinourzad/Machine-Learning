@@ -9,16 +9,16 @@
 2. Deploying the updating rule for weights and biases and a discussion over the importance of learning rate and its value. 
 
 ## Problem 4
-Calculation of coefficients in linear regression in the general case. 
+Calculation of coefficients in **Linear Regression** in the general case. 
 
 ## Problem 5
-Claculating the statistical charactristics of the linear regression coefficients in a specific case. 
+Claculating the statistical charactristics of the **Linear Regression Coefficients** in a specific case. 
 
 ## Problem 6 
 Designing a classification to classify Manchester United and Chelsea fans based on the RGB value in an image. 
 
 ## Problem 7 
-Fitting polynomials to a noisy cosine function with various degrees and discussing overfitting and underfitting. 
+Fitting polynomials to a noisy cosine function with various degrees and discussing **overfitting** and **underfitting**. 
 
 ## Problem 8 
-Defining "Accuracy", "Precision", and "Recall".  
+Defining "**Accuracy**", "**Precision**", and "**Recall**".  
