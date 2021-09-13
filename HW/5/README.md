@@ -1,0 +1,2 @@
+### :purple_circle: **The solutions to the below problems can be found [here](https://github.com/fnoorzad/Machine_Learning/blob/02b6ade63e53c9b7fa4fb94c42f6a0d8bb4059d3/HW/4/Report.pdf), and the simulation codes are [here](https://github.com/fnoorzad/Machine_Learning/blob/02b6ade63e53c9b7fa4fb94c42f6a0d8bb4059d3/HW/4/Codes.ipynb).**
+
