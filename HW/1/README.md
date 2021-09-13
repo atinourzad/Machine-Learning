@@ -20,3 +20,5 @@ Fitting polynomials to a noisy cosine function with various degrees and discussi
 
 ## Problem 8 
 Defining "Accuracy", "Precision", and "Recall".  
+
+The answers to the above problems can be found in the report file [here](https://github.com/fnoorzad/Machine_Learning/blob/cd8c8e4d3ae0a4e453b619ee9e4d8ac97bce87af/HW/1/Report.pdf). In addition, codes for problem six are [here](https://github.com/fnoorzad/Machine_Learning/blob/cd8c8e4d3ae0a4e453b619ee9e4d8ac97bce87af/HW/1/Problem6_Method1.ipynb) and [here](https://github.com/fnoorzad/Machine_Learning/blob/cd8c8e4d3ae0a4e453b619ee9e4d8ac97bce87af/HW/1/Problem6_Method2.ipynb), and for problem seven is [here](https://github.com/fnoorzad/Machine_Learning/blob/cd8c8e4d3ae0a4e453b619ee9e4d8ac97bce87af/HW/1/Problem7.ipynb).
