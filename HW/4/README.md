@@ -1,4 +1,4 @@
-### :purple_circle: **The answers to the below problems can be found [here](https://github.com/fnoorzad/Machine_Learning/blob/02b6ade63e53c9b7fa4fb94c42f6a0d8bb4059d3/HW/4/Report.pdf), and the codes for them are [here](https://github.com/fnoorzad/Machine_Learning/blob/02b6ade63e53c9b7fa4fb94c42f6a0d8bb4059d3/HW/4/Codes.ipynb).**
+### :purple_circle: **The solutions to the below problems can be found [here](https://github.com/fnoorzad/Machine_Learning/blob/02b6ade63e53c9b7fa4fb94c42f6a0d8bb4059d3/HW/4/Report.pdf), and the simulation codes are [here](https://github.com/fnoorzad/Machine_Learning/blob/02b6ade63e53c9b7fa4fb94c42f6a0d8bb4059d3/HW/4/Codes.ipynb).**
 
 ## Problem 5
 Employing a decision tree to predict whether someone waits for a table to be empty or not. 
