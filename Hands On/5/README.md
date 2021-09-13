@@ -1,4 +1,4 @@
-### :purple_circle: **The solutions to the below problems can be found [here](https://github.com/fnoorzad/Machine_Learning/blob/8c30c97d25b78b952fdd6bc8f31aca0ac19745ef/Hands%20On/5/Codes.ipynb)**
+### :purple_circle: **The solutions to the below problems can be found [here](https://github.com/fnoorzad/Machine_Learning/blob/8c30c97d25b78b952fdd6bc8f31aca0ac19745ef/Hands%20On/5/Codes.ipynb).**
 
 ## Non-Parametric Density Estimation
 1. Preprocessing Adult dataset.
