@@ -1,6 +1,6 @@
-### :purple_circle: **The simulation code to the below problems can be found [here](https://github.com/fnoorzad/Machine_Learning/blob/81c57fcbafae7b1de92c1c8671be0496270e3e19/Hands%20On/2/Codes.ipynb).**
+### :purple_circle: **The solutions to the below problems can be found [here](https://github.com/fnoorzad/Machine_Learning/blob/4714875de905b3fd0dc988565da3c1b2e89c6b89/Final%20Project/Report.pdf), and the simulation codes are [here](https://github.com/fnoorzad/Machine_Learning/blob/4714875de905b3fd0dc988565da3c1b2e89c6b89/Final%20Project/Codes.ipynb).**
 
-For the 
+In this project, we were to classify sick and healthy people based on the given dataset. To do so, various methods of preprocessing and classification are employed. The performance of each combo is then evaluated with different metrics to get insight which is the best one for the given task. Below, a list of preprocessing, classification, and metric methods utilized in this project are stated. 
 
 ### Preprocessing
 * Normalization
@@ -16,7 +16,6 @@ For the
     * Autoencoders
    * Wrapper Methods
      * LDA
-     * Sequential Backward Feature Elimination
 
 ### Classification
 * Generative Approaches
@@ -31,6 +30,8 @@ For the
   * K-Nearest Neighbors
   * Multi-Layer Perceptron
   * RBF Neural-Networks
+ 
+ * Bagging
 
 ### Evaluation Metrics
 * Accuracy
