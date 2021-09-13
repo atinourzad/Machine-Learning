@@ -1,1 +1,8 @@
-### :purple_circle: *The solutions to the below problems can be found [here](https://github.com/fnoorzad/Machine_Learning/blob/02b6ade63e53c9b7fa4fb94c42f6a0d8bb4059d3/HW/4/Report.pdf), and the simulation codes are [here](https://github.com/fnoorzad/Machine_Learning/blob/02b6ade63e53c9b7fa4fb94c42f6a0d8bb4059d3/HW/4/Codes.ipynb).*
+### :purple_circle: **The solutions to the below problems can be found [here](https://github.com/fnoorzad/Machine_Learning/blob/8c30c97d25b78b952fdd6bc8f31aca0ac19745ef/Hands%20On/5/Codes.ipynb)**
+
+## Non-Parametric Density Estimation
+1. Preprocessing Adult dataset.
+2. Employing KNN for classification.
+3. Employing Parzen Window for density estimation. 
+4. Employing Decision Tree for classification. 
+5. Employing Boosting for classification.
