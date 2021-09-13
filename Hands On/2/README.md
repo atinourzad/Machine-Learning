@@ -1,1 +1,3 @@
-### :purple_circle: *The solutions to the below problems can be found [here](https://github.com/fnoorzad/Machine_Learning/blob/02b6ade63e53c9b7fa4fb94c42f6a0d8bb4059d3/HW/4/Report.pdf), and the simulation codes are [here](https://github.com/fnoorzad/Machine_Learning/blob/02b6ade63e53c9b7fa4fb94c42f6a0d8bb4059d3/HW/4/Codes.ipynb).*
+### :purple_circle: **The solutions to the below problems can be found [here](https://github.com/fnoorzad/Machine_Learning/blob/81c57fcbafae7b1de92c1c8671be0496270e3e19/Hands%20On/2/Codes.ipynb).**
+
+### Performing Naive Bayes, Nearest Centroid, and Logistic Regression classifiers can comparing their performance on MNIST dataset. 
