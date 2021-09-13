@@ -1,3 +1,5 @@
+### :purple_circle: **The solutions to the below problems can be found [here](https://github.com/fnoorzad/Machine_Learning/blob/6a119a4988ecb5b04e386969f93d84f4dd7cecb2/HW/1/Report.pdf), and the simulation codes are [here](https://github.com/fnoorzad/Machine_Learning/blob/6a119a4988ecb5b04e386969f93d84f4dd7cecb2/HW/1/Codes)**
+
 ## Problem 1 
 1. Best strategy in separating train and test data. 
 2. Explaination of the relationship between inference and the probability of occurance. 
@@ -20,5 +22,3 @@ Fitting polynomials to a noisy cosine function with various degrees and discussi
 
 ## Problem 8 
 Defining "Accuracy", "Precision", and "Recall".  
-
-The answers to the above problems can be found in the report file [here](https://github.com/fnoorzad/Machine_Learning/blob/cd8c8e4d3ae0a4e453b619ee9e4d8ac97bce87af/HW/1/Report.pdf). In addition, codes for problem six are [here](https://github.com/fnoorzad/Machine_Learning/blob/cd8c8e4d3ae0a4e453b619ee9e4d8ac97bce87af/HW/1/Problem6_Method1.ipynb) and [here](https://github.com/fnoorzad/Machine_Learning/blob/cd8c8e4d3ae0a4e453b619ee9e4d8ac97bce87af/HW/1/Problem6_Method2.ipynb), and for problem seven is [here](https://github.com/fnoorzad/Machine_Learning/blob/cd8c8e4d3ae0a4e453b619ee9e4d8ac97bce87af/HW/1/Problem7.ipynb).
