@@ -1,3 +1,6 @@
+### :purple_circle: **The solutions to the below problems can be found [here](https://github.com/fnoorzad/Machine_Learning/blob/43520de0bb4a538dd278c1d53088e0542d501be0/HW/2/Report.pdf), and the simulation codes are [here](https://github.com/fnoorzad/Machine_Learning/blob/43520de0bb4a538dd278c1d53088e0542d501be0/HW/2/Codes).**
+
+
 ## Problem 1
 Determining the decision boundary. 
 
@@ -40,4 +43,3 @@ Defining "One-VS-Rest" strategy and implementing logistic regression algorithm.
 ## Problem 11
 Implementing logistic regression and use it to find the decision boundary. 
 
-**The answers to the above problems can be found in the report file [here](https://github.com/fnoorzad/Machine_Learning/blob/43520de0bb4a538dd278c1d53088e0542d501be0/HW/2/Report.pdf). In addition, codes for problems are [here](https://github.com/fnoorzad/Machine_Learning/blob/43520de0bb4a538dd278c1d53088e0542d501be0/HW/2/Codes).**
